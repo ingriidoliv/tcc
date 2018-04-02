@@ -8,4 +8,4 @@
 *.toc
 *.log
 *synctex.gz
-*.gitignore
+.gitignore
